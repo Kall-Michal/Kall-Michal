@@ -1,7 +1,5 @@
 ## Hello there Michal here.
 
----
-
 ## I am traveler, adventurer, and developer!
 
  - Currently emplyed as software enginner in finance world in 📍 Amsterdam
