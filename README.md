@@ -4,8 +4,7 @@
  - Currently emplyed as software enginner in finance world in 📍 Amsterdam
  - Passionate about learning and building things and stuff
  - Ex Ice Hockey player 🏒 nowdays enjoying leisure motion
- - Fun fact: Can navigate by stars ✨
- - Bonus fun fact: Used to chase Northern Lights on dog sleds and snowmobiles 🌌 🐕🐕🐕🐕🐕🐕🐕🐕🛷 
+ - Fun fact: Used to chase Northern Lights on dog sleds and snowmobiles 🌌 🐕🐕🐕🐕🐕🐕🐕🐕🛷 (can navigate by stars ✨)
 
  ### Connect with me:
 
