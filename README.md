@@ -30,8 +30,6 @@
 
 ---
 
-<img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kall-michal&count_private=true&show_icons=true&hide_border=true&hide=stars,issues"/> 
-
 [twitter]: https://twitter.com/KallMichal
 [instagram]: https://www.instagram.com/kall.michal
 [linkedin]: https://www.linkedin.com/in/michal-kall
