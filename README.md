@@ -1,16 +1,13 @@
-## Hello there Michal here.
+## Greetings, Michal here.
 
  - I am traveler, adventurer, and developer
- - Currently emplyed as software enginner in finance world in 📍 Amsterdam
- - Passionate about learning and building things and stuff
- - Ex Ice Hockey player 🏒 nowdays enjoying leisure motion
- - Fun fact: Used to chase Northern Lights on dog sleds and snowmobiles 🌌 🐕🐕🐕🐕🐕🐕🐕🐕🛷(can navigate by stars ✨)
+ - Currently working as software enginner in finance world in Amsterdam
+ - Ex Ice Hockey player 🏒 Ex Musher 🐕🐕🐕🐕🐕🐕🛷
 
  ### Connect with me:
 
 [<img align="left" alt="michal-kall | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 [<img align="left" alt="kall.michal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
-[<img align="left" alt="KallMichal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
 
 <br />
 
